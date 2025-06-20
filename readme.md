@@ -20,6 +20,7 @@ Here are my project ideas I'd would like to try:
 5. Weather App
 - pull live data from API
 - handling JSON's
+
   
 6. [Rock, Paper, Scissors](https://github.com/pythorine/rock-paper-scissors)
 - just my first test project
