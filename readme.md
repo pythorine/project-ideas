@@ -29,3 +29,6 @@ Here are my project ideas I'd would like to try:
 
 6. [Rock, Paper, Scissors](https://github.com/pythorine/rock-paper-scissors)
 - just my first test project
+
+7.
+- learn markdown because im apparently bad at formatting this readme
