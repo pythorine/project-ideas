@@ -1,5 +1,4 @@
-Here are my project ideas I'd would like to try:
-<br>
+Here are my project ideas I'd would like to try:\
 1. File Sorter - Organize files into specific folders by type
 - Dictionaries
 - Conditionals
